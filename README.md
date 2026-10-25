@@ -104,3 +104,6 @@ Este repositório é uma evolução independente. O projeto acadêmico original 
 Estudante de Banco de Dados — FATEC São José dos Campos (Prof. Jessen Vidal)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-ricardo-2b54271b3/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wander717)
+
+
+O café da manhã fica melhor quando o código compila de primeira.
